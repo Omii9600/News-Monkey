@@ -1,0 +1,11 @@
+<Route path="/business "><News pageSize={3} country="in" category="general"/></Route>
+<Route path="/entertainment"><News pageSize={3} country="in" category="general"/></Route>
+<Route path="/general"><News pageSize={3} country="in" category="general"/></Route>
+<Route path="/health"><News pageSize={3} country="in" category="general"/></Route>
+<Route path="/science"><News pageSize={3} country="in" category="general"/></Route>
+<Route path="/sports"><News pageSize={3} country="in" category="general"/></Route>
+<Route path="/technology"><News pageSize={3} country="in" category="general"/></Route>
+
+https://newsapi.org/v2/top-headlines?country=in&apiKey=811a6c79363c4f7ab975fe86345c0e63
+
+<Route path="/business"><News pageSize={3} country="in" category="general"/></Route>
